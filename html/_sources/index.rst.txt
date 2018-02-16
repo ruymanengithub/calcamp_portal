@@ -30,8 +30,10 @@ Documents with information to understand the process and results of the VIS Grou
 
 `VIS GRCALCAMP Cold Testing Time-line <https://docs.google.com/spreadsheets/d/1BXQnsxT5--a2KW_m7cr0pHeUqhNANp-QFJ5XwR6x7Hs/edit#gid=0>`_
 
-Definitions of contents in ELVIS `files
-<https://docs.google.com/spreadsheets/d/1y-iod54JZ5PL1wkZog3ke_SGVUmdbJR-wF9B75vpo6U/edit#gid=645295587>`_.
+Definitions of contents in ELVIS files:
+
+* `v. 6.3.0 <https://docs.google.com/spreadsheets/d/1y-iod54JZ5PL1wkZog3ke_SGVUmdbJR-wF9B75vpo6U/edit#gid=645295587>`_.
+* `v. 6.5.X <https://docs.google.com/spreadsheets/d/1tDWtdqM3Y1XJFhC0BvL09aRImI4WAT3oKTA07ziidnw/edit#gid=267585557>`_.
 
 
 Pipeline: *vison*
@@ -48,10 +50,12 @@ Repository hosted in `github <https://github.com/ruymanengithub/vison>`_
 Monitoring
 ==========
 
-Access to documents tracing the progress made during the campaign.
+Access to documents tracking the progress made during the campaign.
 
-
-TBW
+.. toctree::
+   :maxdepth: 2
+   
+   monitor
 
 
 Data
@@ -61,8 +65,14 @@ Data acquired during the VIS GRCALCAMP. By now, the data available is simulated,
 
 "Kosher": `Validated <../Kosher>`_ Data-sets.
 
-"Quarantine": Data-sets being monitored, `pending validation. <../Quarantine>`_
+"Quarantine": Data-sets being monitored, `pending <../Quarantine>`_ validation.
 
+
+Things Other Than GRCalCamp
+===========================
+
+You may also find other contents related to the calibration and performance of the instrument 
+in this `folder <../other_than_calcamp>`_.
 
 
 Indices and tables
