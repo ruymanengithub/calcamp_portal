@@ -11,7 +11,7 @@ DRY-RUN-0
 ---------
 
 Rehearsal of the calibration campaign performed at MSSL on 5th through 9th February 2018.
-Facility: CHAMBER A.
+Facility: CHAMBER #1.
 
 **CAVEATS**:
 
@@ -27,4 +27,35 @@ TESTS-RECORD: DRY-RUN `FEB18 <https://docs.google.com/spreadsheets/d/1HbkccJLrTG
 * Data: `DRYRUN_FEB18 <../Kosher/DRYRUN_FEB18>`_
 * Acquisition `Scripts <../Kosher/DRYRUN_FEB18/acq_scripts>`_
 
+
+DRY-RUN-MAY18
+-------------
+
+30th and 31st May, 2018. Chamber #1.
+COTS-QM#1 ROE + RPSU, and 3 EM1a CCDs.
+
+**CAVEATS**
+
+* Lore Ipsum...
+
+
+TESTS-RECORD: DRY-RUN `MAY18 <https://docs.google.com/spreadsheets/d/1ecgLUT2kV277FfWn6SYr5lEk8pmVqYhz5ZeGafpkT6U/edit#gid=0>`
+
+* Data: `DRYRUN_MAY18 <../Kosher/DRY_RUN_MAY18>`
+
+
+DRY-RUN-SEP18-W1
+----------------
+
+
+TESTS-RECORD: DRY-RUN `SEP18-W1 <https://docs.google.com/spreadsheets/d/1PuiLvmxEKDRSwtISoKxUcW6D9-jIpe9qCQJKmLhojow/edit#gid=0>`
+* Data: `DRYRUN_SEP18_W1 <../Kosher/DRY_RUN_SEP18_W1>`
+
+
+DRY-RUN-SEP18-W2
+----------------
+
+
+TESTS-RECORD: DRY-RUN `SEP-W2 <https://docs.google.com/spreadsheets/d/1CdiI9lkofQdQ9Pjvlm0ATLFsUKVUM3IxE3OxvhYuJP0/edit#gid=0>`
+* Data: `DRYRUN_SEP18_W2 <../Kosher/DRY_RUN_SEP18_W2>`
 
