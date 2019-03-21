@@ -26,14 +26,15 @@ Documents with information to understand the process and results of the VIS Grou
 
 `VIS Calibration Plan. <../calcamp_resources/DOCS/EUCL-MSS-PL-6-001_v1.2_VIS_Calibration_Plan.pdf>`_
 
-`VIS Ground Calibration Campaign Test Plan. <../calcamp_resources/DOCS/EUCL-MSS-PL-6-039_v1.0_VIS_OnGroundCalibrationPlan.pdf>`_
+**VIS Ground Calibration Campaign** `Test Plan <../calcamp_resources/DOCS/EUCL-MSS-PL-6-039_v2.0_VIS_OnGroundCalibrationPlan.pdf>`_. Final version (2.0) accepted at Cal. Camp. TRR.
 
-`VIS GRCALCAMP Cold Testing Time-line <https://docs.google.com/spreadsheets/d/1BXQnsxT5--a2KW_m7cr0pHeUqhNANp-QFJ5XwR6x7Hs/edit#gid=0>`_
+`VIS GRCALCAMP Test Descriptions <https://docs.google.com/spreadsheets/d/1HYsvtEt6y6TTLFxwxED4JzPAyXt6lJBnJCe25k8LXhM/edit#gid=0>`_
 
 Definitions of contents in ELVIS files:
 
 * `v. 6.3.0 <https://docs.google.com/spreadsheets/d/1y-iod54JZ5PL1wkZog3ke_SGVUmdbJR-wF9B75vpo6U/edit#gid=645295587>`_.
 * `v. 6.5.X <https://docs.google.com/spreadsheets/d/1tDWtdqM3Y1XJFhC0BvL09aRImI4WAT3oKTA07ziidnw/edit#gid=267585557>`_.
+* Used for Flight Hardware Ground Calibration: `v.7.5.X <https://docs.google.com/spreadsheets/d/1dz2oeQse5aEY3v3SdCGNs5YFzRWDney-lc_czbbPMww/edit#gid=267585557>`_.
 
 
 Pipeline: *vison*
@@ -50,7 +51,7 @@ Repository hosted in `github <https://github.com/ruymanengithub/vison>`_
 Monitoring
 ==========
 
-Access to documents tracking the progress made during the campaign.
+Access to documents tracking the progress made during the campaign, and data itself.
 
 .. toctree::
    :maxdepth: 2
@@ -58,14 +59,15 @@ Access to documents tracking the progress made during the campaign.
    monitor
 
 
-Data
-====
+Data direct access
+==================
 
-Data acquired during the VIS GRCALCAMP. By now, the data available is simulated, and provided for teams interested in the monitoring / analysis of the data to get acquainted with its format and volume.
+Data acquired during the VIS GRCALCAMP. It is recommended that, unless you know where you're going, you access the data through the links in the previous section.
 
-"Kosher": `Validated <../Kosher>`_ Data-sets.
+`"Kosher" <../Kosher>`_ : Validated Data-sets.
 
-"Quarantine": Data-sets being monitored, `pending <../Quarantine>`_ validation.
+`"Quarantine" <../Quarantine>`_: Data-sets being monitored, pending validation.
+
 
 
 Things Other Than GRCalCamp
