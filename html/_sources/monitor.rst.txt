@@ -20,8 +20,12 @@ Flight-Hardware Calibrations
 
 CAVEAT: In all cases, tests results are preliminary and incomplete.
 
-The flight detection chain blocks are nicknamed after participants in the 5th Solvay Conference. Here are the links to the data acquired with each block:
+Below are the links to the data acquired with each block:
 
+TRIVIA: The flight detection chain blocks are nicknamed after participants in the 5th Solvay 
+Conference in this account. These are not intended to be "official" block names,
+it's just a convenient (less prone to confusion) way we have found to label them during 
+analysis and reporting.
 
 .. toctree::
    :maxdepth: 2

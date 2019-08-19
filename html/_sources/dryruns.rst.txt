@@ -19,8 +19,7 @@ Facility: CHAMBER #1.
 
 TESTS-RECORD: DRY-RUN `FEB18 <https://docs.google.com/spreadsheets/d/1HbkccJLrTGkRu9LO2grlUPdSYBn5DuYo4ioaBR2V6qw/edit#gid=0>`_
 
-* Data: `DRYRUN_FEB18 <../Kosher/DRYRUN_FEB18>`_
-* Acquisition `Scripts <../Kosher/DRYRUN_FEB18/acq_scripts>`_
+* Data: ARCHIVED.
 
 
 DRY-RUN-MAY18
@@ -36,7 +35,7 @@ Facility: CHAMBER #1.
 TESTS-RECORD: DRY-RUN `MAY18
 <https://docs.google.com/spreadsheets/d/1ecgLUT2kV277FfWn6SYr5lEk8pmVqYhz5ZeGafpkT6U/edit#gid=0>`_
 
-* Data: `DRYRUN_MAY18 <../Kosher/DRY_RUN_MAY18>`_
+* Data: ARVHIVED.
 
 
 DRY-RUN-SEP18-W1
@@ -54,7 +53,7 @@ Facility: CHAMBER #1.
 TESTS-RECORD: DRY-RUN `SEP18-W1
 <https://docs.google.com/spreadsheets/d/1PuiLvmxEKDRSwtISoKxUcW6D9-jIpe9qCQJKmLhojow/edit#gid=0>`_
 
-* Data: `DRYRUN_SEP18_W1 <../Kosher/DRY_RUN_SEP18_W1>`_
+* Data: ARCHIVED.
 
 
 DRY-RUN-SEP18-W2
@@ -71,7 +70,7 @@ Facility: CHAMBER #1.
 TESTS-RECORD: DRY-RUN `SEP-W2
 <https://docs.google.com/spreadsheets/d/1CdiI9lkofQdQ9Pjvlm0ATLFsUKVUM3IxE3OxvhYuJP0/edit#gid=0>`_
 
-* Data: `DRYRUN_SEP18_W2 <../Kosher/DRY_RUN_SEP18_W2>`_
+* Data: ARCHIVED.
 
 
 FLIGHT-QM DRY-RUN
@@ -89,7 +88,7 @@ Facility: CHAMBER #1.
 
 TESTS-RECORD: `QUASIMODO <https://docs.google.com/spreadsheets/d/1Js61q2PKyRhvx-dl_x2CIJbXzLdbJoPD2_1dDjfVWew/edit#gid=110848496>`_
 
-* Data: `QUASIMODO <../Kosher/FLIGHTQM>`_
+* Data: ARCHIVED.
 
 
 
