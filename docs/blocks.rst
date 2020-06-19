@@ -1,6 +1,8 @@
 Flight Blocks Calibrations
 ==========================
 
+Table with summary of `calibrations <https://docs.google.com/spreadsheets/d/1CFW2vcuCSlXv2BhL-tOj1RsH1gsFY4aEztLPcgCYLaw/edit#gid=0>`_.
+
 
 BORN-FM01
 ---------
@@ -20,7 +22,7 @@ Facility: CHAMBER #2.
 
 TESTS-RECORD: `BORN <https://docs.google.com/spreadsheets/d/1Wu_2jbFlIrs0HRzz5__UkvecimvG8Jc8QcDVp7Ts6Hc/edit#gid=110848496>`_
 
-* Data: `BORN <../Kosher/FLIGHT/BORN>`_ *[DATA ARCHIVED]*
+* Data: `BORN <../Kosher/FLIGHT/BORN>`_
 
 
 CURIE-FM04
@@ -39,7 +41,7 @@ Facility: CHAMBER #2.
 
 
 * TESTS-RECORD: `CURIE <https://docs.google.com/spreadsheets/d/1KwVmKyDIGvvkidOxBqrZFSmhEKFJtJMbWb__9VrP-ok/edit#gid=110848496>`_
-* Data: `CURIE <../Kosher/FLIGHT/CURIE>`_ *[DATA ARCHIVED]*
+* Data: `CURIE <../Kosher/FLIGHT/CURIE>`_
 
 
 DIRAC-FM03
@@ -57,7 +59,7 @@ Facility: CHAMBER #1.
 - CCD3_SN	: 14313-02-01
 
 * TESTS-RECORD: `DIRAC <https://docs.google.com/spreadsheets/d/1vCUIAis5h2JL_Bg3poqKH19Zp095TikWgCmHL-KAnTM/edit#gid=110848496>`_
-* Data: `DIRAC <../Kosher/FLIGHT/DIRAC>`_ *[DATA ARCHIVED]*
+* Data: `DIRAC <../Kosher/FLIGHT/DIRAC>`_
 
 
 ERWIN-FM02
@@ -76,7 +78,7 @@ Facility: CHAMBER #2.
 
 
 * TESTS-RECORD: `ERWIN <https://docs.google.com/spreadsheets/d/11LqFU42W9qmuO8fOPlE43fel7js5_AeaX6AsOtRvZI0/edit#gid=110848496>`_
-* Data: `ERWIN <../Kosher/FLIGHT/ERWIN>`_ *[DATA ARCHIVED]*
+* Data: `ERWIN <../Kosher/FLIGHT/ERWIN>`_ 
 
 
 FOWLER-FM05
@@ -123,6 +125,9 @@ HEISENBERG-FM07 (DEMOTED)
 **CAUTION**: Use the calibration of SKLODOWSKA for FM Block 07. Block "HEISENBERG", as a whole, will no longer fly, due to 
 post-calibration damage to  CCD 14311-21-02 (CCD1).
 
+**UPDATE**: Block FM07 is no longer expected to fly and will be kept as an spare (see below comments on
+SKLODOWSKA/FM07).
+
 Facility: CHAMBER #2
 
 - BLOCKID: HEISENBERG/FM07
@@ -133,7 +138,7 @@ Facility: CHAMBER #2
 - CCD3_SN: 14313-24-02
 
 * TEST-RECORD: `HEISENBERG <https://docs.google.com/spreadsheets/d/1HuzGQQxlcV_VtKrvu8A-aBf43RvY9Gjvzp30U8Os180/edit#gid=110848496>`_
-* Data: `HEISENBERG <../Kosher/FLIGHT/HEISENBERG>`_
+* Data: `HEISENBERG <../Kosher/FLIGHT/HEISENBERG>`_ *[DATA ARCHIVED]*
 
 JULES-FM08 (DEMOTED)
 --------------------
@@ -154,7 +159,7 @@ Facility: CHAMBER #1
 - CCD3_SN: 14313-06-01
 
 * TEST-RECORD: `JULES <https://docs.google.com/spreadsheets/d/1CpGMGEvWCtIeXuMtnLepfI4V1Hh57IhBZHQlShZsJv4/edit#gid=110848496>`_
-* Data: `JULES <../Kosher/FLIGHT/JULES>`_
+* Data: `JULES <../Kosher/FLIGHT/JULES>`_ *[DATA ARCHIVED]*
  
 
 KRAMERS-FM09
@@ -193,8 +198,8 @@ Facility: CHAMBER #2
 * Data: `LORENTZ <../Kosher/FLIGHT/LORENTZ>`_
 
 
-MAX-FM10
---------
+MAX-FM10 (DEMOTED to Flight-Spare)
+----------------------------------
 
 28th June through 3rd July 2019
 
@@ -206,6 +211,9 @@ Facility: CHAMBER #1
 - CCD1_SN: 15081-21-01
 - CCD2_SN: 15081-17-01
 - CCD3_SN: 15081-15-01
+
+**UPDATE**: CCD1 Damaged after Calibration (wire-bonds). The CCD has been "fixed" by E2V and the block will be 
+kept as an flight spare.
 
 * TEST-RECORD: `MAX <https://docs.google.com/spreadsheets/d/18E_lxwxpjpUr2CBK-ZKnWvtib-KHmN-02LVvEGBc3a8/edit#gid=110848496>`_
 * Data: `MAX <../Kosher/FLIGHT/MAX>`_
@@ -233,8 +241,6 @@ Facility: CHAMBER #2
 OWEN-FM13
 ---------
 
-(FLIGHT SPARE #1)
-
 9th July through 12th July 2019
 
 Facility: CHAMBER #1
@@ -255,7 +261,6 @@ JULES2-FM08
 
 Re-calibration of Block FM08 with a CCD Swap on CCD2 after damage to CCD SN 14313-23-02 (damaged connector).
 
-
 15th July through 17th July 2019
 
 Facility: CHAMBER #2
@@ -271,8 +276,8 @@ Facility: CHAMBER #2
 * Data: `JULES2 <../Kosher/FLIGHT/JULES2>`_
 
 
-SKLODOWSKA-FM07
----------------
+SKLODOWSKA-FM07 (Demoted to FLIGHT-SPARE)
+-----------------------------------------
 
 Re-calibration of Block FM07 with a CCD Swap on CCD1 after damage to CCD 14311-21-02 (damaged wirebonds).
 
@@ -283,19 +288,20 @@ Facility: CHAMBER #2
 - BLOCKID: SKLODOWSKA/FM07
 - ROE_SN: FM07
 - RPSU_SN: FM07
-- CCD1_SN: 14471-20-02 (same as in HEISENBERG)
-- CCD2_SN: 14313-08-01 (replaced)
+- CCD1_SN: 14471-20-02 (replaced)
+- CCD2_SN: 14313-08-01 (same as in HEISENBERG)
 - CCD3_SN: 14313-24-02 (same as in HEISENBERG)
 
+**UPDATE**: CCD2 found to be also damaged (bent but not detached wirebonds) after review of out-going inspection pictures.
+
+
 * TEST-RECORD: `SKLODOWSKA <https://docs.google.com/spreadsheets/d/18qKRLULoPv6QVadP7EfxdUxX_LXTgU4fZQi9cli2qQs/edit#gid=110848496>`_
-* Data: `SKLODOWSKA <../Kosher/FLIGHT/SKLODOWSKA>`_
+* Data: `SKLODOWSKA <../Kosher/FLIGHT/SKLODOWSKA>`_ *[DATA ARCHIVED]*
 
 
 
 EINSTEIN-FM14
 -------------
-
-(FLIGHT SPARE #2)
 
 29th July through 31st July 2019
 
@@ -310,3 +316,4 @@ Facility: CHAMBER #2
 
 * TEST-RECORD: `EINSTEIN <https://docs.google.com/spreadsheets/d/1X2UXVNvVcYEoUOhpgWRq6OjVbbnUCe1BpSnCAuWDnYo/edit#gid=110848496>`_
 * Data: `EINSTEIN <../Kosher/FLIGHT/EINSTEIN>`_
+
