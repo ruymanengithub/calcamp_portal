@@ -47,6 +47,7 @@ VGCC Results Releases.
     :maxdepth: 2
     
     release1
+    release2
 
 
 
